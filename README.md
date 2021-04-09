@@ -10,6 +10,10 @@ In the project directory, you can run:
 
 Runs the api, provided by json-server
 
+### `npm install`
+
+to install required packages
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -26,3 +30,5 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### `npm run cypress`
 
 Runs the tests implemented in cypress
+
+For required documents you can check documents folder in the repository
