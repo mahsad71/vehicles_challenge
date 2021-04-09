@@ -1,0 +1,60 @@
+{
+  "vehicles": [
+    {
+      "vid": "YS2R4X20005399401",
+      "customer": {
+        "name": "Kalles Grustransporter AB",
+        "address": "Cementvägen 8, 111 11 Södertälje"
+      },
+      "regNum": "ABC123"
+    },
+    {
+      "vid": "VLUR4X20009093588",
+      "customer": {
+        "name": "Kalles Grustransporter AB",
+        "address": "Cementvägen 8, 111 11 Södertälje"
+      },
+      "regNum": "DEF456",
+    },
+    {
+      "vid": "VLUR4X20009048066",
+      "customer": {
+        "name": "Kalles Grustransporter AB",
+        "address": "Cementvägen 8, 111 11 Södertälje"
+      },
+      "regNum": "GHI789"
+    },
+    {
+      "vid": "YS2R4X20005388011",
+      "customer": {
+        "name": "Johans Bulk AB",
+        "address": "Balkvägen 12, 222 22 Stockholm"
+      },
+      "regNum": "JKL012"
+    },
+    {
+      "vid": "YS2R4X20005387949",
+      "customer": {
+        "name": "Johans Bulk AB",
+        "address": "Balkvägen 12, 222 22 Stockholm"
+      },
+      "regNum": "MNO345"
+    },
+    {
+      "vid": "VLUR4X20009048066",
+      "customer": {
+        "name": "Haralds Värdetransporter AB",
+        "address": "Budgetvägen 1, 333 33 Uppsala"
+      },
+      "regNum": "PQR678"
+    },
+    {
+      "vid": "YS2R4X20005387055",
+      "customer": {
+        "name": "Haralds Värdetransporter AB",
+        "address": "Budgetvägen 1, 333 33 Uppsala"
+      },
+      "regNum": "STU901"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "vehicles": [
+    {
+      "vid": "YS2R4X20005399401",
+      "name": "Kalles Grustransporter AB",
+      "address": "Cementvägen 8, 111 11 Södertälje",
+      "regNum": "ABC123",
+      "status": "Connected"
+    },
+    {
+      "vid": "VLUR4X20009093588",
+      "name": "Kalles Grustransporter AB",
+      "address": "Cementvägen 8, 111 11 Södertälje",
+      "regNum": "DEF456",
+      "status": "Disconnected"
+    },
+    {
+      "vid": "VLUR4X20009048066",
+      "name": "Kalles Grustransporter AB",
+      "address": "Cementvägen 8, 111 11 Södertälje",
+      "regNum": "GHI789",
+      "status": "Connected"
+    },
+    {
+      "vid": "YS2R4X20005388011",
+      "name": "Johans Bulk AB",
+      "address": "Balkvägen 12, 222 22 Stockholm",
+      "regNum": "JKL012",
+      "status": "Disconnected"
+    },
+    {
+      "vid": "YS2R4X20005387949",
+      "name": "Johans Bulk AB",
+      "address": "Balkvägen 12, 222 22 Stockholm",
+      "regNum": "MNO345",
+      "status": "Connected"
+    },
+    {
+      "vid": "VLUR4X20009048066",
+      "name": "Haralds Värdetransporter AB",
+      "address": "Budgetvägen 1, 333 33 Uppsala",
+      "regNum": "PQR678",
+      "status": "Disconnected"
+    },
+    {
+      "vid": "YS2R4X20005387055",
+      "name": "Haralds Värdetransporter AB",
+      "address": "Budgetvägen 1, 333 33 Uppsala",
+      "regNum": "STU901",
+      "status": "Connected"
+    }
+  ]
+}
